@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.kronosh.helloworld"
+        id        = "com.kronosh.debugger"
         version   = "2.0.0">
-    <name>Hello World</name>
+    <name>Kronosh Debugger</name>
 
     <description>
-        Hello World app using Phonegap, AngluarJs, and Bootstrap
+        Kronosh Debugger
     </description>
 
     <author href="http://www.kronosh.com" email="support@kronosh.com">
